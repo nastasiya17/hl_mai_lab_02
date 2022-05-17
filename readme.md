@@ -5,6 +5,7 @@
 подключиться к удаленным базам данных: 
 
 mysql --port=3360 --database=sql_test --user=test --host=127.0.0.1 --password=pzjqUkMnc7vfNHET
+
 mysql --port=3361 --database=sql_test --user=test --host=127.0.0.1 --password=pzjqUkMnc7vfNHET
 
 и запустить на них скрипт my_commands.sql
