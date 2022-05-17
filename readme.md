@@ -1,6 +1,7 @@
 ### Подготовка базы данных
 
 Перед запуском программы необходимо запустить docker-compose up ,
+
 подключиться к удаленным базам данных: 
 
 mysql --port=3360 --database=sql_test --user=test --host=127.0.0.1 --password=pzjqUkMnc7vfNHET
