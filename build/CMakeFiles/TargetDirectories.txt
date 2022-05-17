@@ -1,0 +1,4 @@
+/home/anast/MAGA/Архитектура/SSA_Mai/hl_mai_lab_02/build/CMakeFiles/rebuild_cache.dir
+/home/anast/MAGA/Архитектура/SSA_Mai/hl_mai_lab_02/build/CMakeFiles/edit_cache.dir
+/home/anast/MAGA/Архитектура/SSA_Mai/hl_mai_lab_02/build/CMakeFiles/hl_mai_lab_02.dir
+/home/anast/MAGA/Архитектура/SSA_Mai/hl_mai_lab_02/build/CMakeFiles/test.dir
